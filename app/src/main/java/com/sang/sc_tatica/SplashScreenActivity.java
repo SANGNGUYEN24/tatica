@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.sang.sc_tatica.Login.LoginAccountActivity;
 
 public class SplashScreenActivity extends AppCompatActivity {
 

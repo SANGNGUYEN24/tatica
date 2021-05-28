@@ -25,7 +25,7 @@
             tools:ignore="LockedOrientationActivity">
 
         </activity>
-        <activity android:name=".FeedbackActivity" />
+        <activity android:name=".FeedbackFromUser.FeedbackActivity" />
         <activity
             android:name=".Ranks.RankActivity"
             android:screenOrientation="portrait"
@@ -35,7 +35,7 @@
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".CommunityActivity"
+            android:name=".Community.CommunityActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
@@ -47,27 +47,27 @@
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ListUserNotesActivity"
+            android:name=".NoteInPomodoro.ListUserNotesActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".PomodoroBreakActivity"
+            android:name=".Pomodoro.PomodoroBreakActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".NoteInPomodroActivity"
+            android:name=".NoteInPomodoro.NoteInPomodroActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".EditTaskActivity"
+            android:name=".Tasks.EditTaskActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".TaskManagementActivity"
+            android:name=".Tasks.TaskManagementActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".CreateTaskActivity"
+            android:name=".Tasks.CreateTaskActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
@@ -89,11 +89,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".RegisterAccountActivity"
+            android:name=".RegisterUser.RegisterAccountActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".LoginAccountActivity"
+            android:name=".Login.LoginAccountActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity">
             <intent-filter>

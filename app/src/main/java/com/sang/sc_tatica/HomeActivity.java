@@ -9,7 +9,6 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -30,8 +29,12 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
+import com.sang.sc_tatica.FeedbackFromUser.FeedbackActivity;
 import com.sang.sc_tatica.FullTips.FullTipsActivity;
+import com.sang.sc_tatica.Login.LoginAccountActivity;
+import com.sang.sc_tatica.Pomodoro.PomodoroFragment;
 import com.sang.sc_tatica.Ranks.RankActivity;
+import com.sang.sc_tatica.Tasks.TodayTaskFragment;
 import com.squareup.picasso.Picasso;
 
 import java.util.HashMap;
