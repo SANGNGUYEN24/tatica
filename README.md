@@ -3,6 +3,9 @@
 * Tatica is a brainchild of our group. It is created to help people work more effectively with pomodoro method and build the community sharing knowledge and experience about working and studying.
 * Check the video about this app: https://www.youtube.com/watch?v=taZd0zt39mU
 
+https://user-images.githubusercontent.com/78266241/142826926-1f9a0d17-a6d7-4297-aa18-686181adc1a6.mp4
+
+
 # Prerequisites
 * Before continue, ensure you meet the following requirements:
 	* Download and setup the latest version of Android Studio.
